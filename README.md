@@ -1,20 +1,3 @@
-# Portfolio Mahasiswi UBSI
-
-## Tentang Saya
-
-Saya adalah mahasiswi semester 5 Program Studi Sistem Informasi Fakultas Teknik dan Informatika di Universitas Bina Sarana Informatika. Memiliki minat yang kuat dalam bidang:
-
-- **Data Visualisasi** - Menciptakan visualisasi data yang informatif dan menarik
-- **Data Analysis** - Menganalisis data untuk mendapatkan insights yang berharga
-- **UI/UX Design** - Merancang pengalaman pengguna yang user-friendly
-
-## Keahlian & Tools
-
-- **Power BI** - Dashboard dan visualisasi data
-- **Microsoft Office** - Excel, PowerPoint, Word untuk analisis dan presentasi
-- **Google Workspace** - Kolaborasi dan produktivitas
-- **Figma** - Desain UI/UX dan prototyping
-- **Canva** - Desain grafis dan kreatif
 
 ## Proyek Akademik
 
@@ -53,12 +36,3 @@ Untuk menambahkan foto Anda:
    - Hero: 500x500px (akan di-crop menjadi lingkaran)
    - About: 600x600px (akan di-crop menjadi persegi dengan sudut melengkung)
 
-## Kontak
-
-- Email: mahasiswi.bsi@email.com
-- Pendidikan: Sistem Informasi - Universitas Bina Sarana Informatika
-- Lokasi: Jakarta, Indonesia
-
----
-
-© 2024 Portfolio Mahasiswi UBSI. Dibuat dengan ❤️
